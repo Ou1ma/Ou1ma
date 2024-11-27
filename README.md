@@ -7,3 +7,4 @@ Welcome to my digital space! I'm a passionate **Data Scientist in the making** �
 - 🌍 Trilingual: **French, English, Arabic**  
 - 🔍 Exploring the intersection of **Big Data**, **Machine Learning**, and **Deep Learning**.  
 - 🎯 Slow learner, but a determined one! 😊  
+<img title="a title" src="https://sl.bing.net/X4Vr6zsfka">
