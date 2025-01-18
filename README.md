@@ -8,7 +8,6 @@ Welcome to my digital space! I'm a passionate **Data Scientist in the making** �
 - 🔍 Exploring the intersection of **Big Data**, **Machine Learning**, and **Deep Learning**.  
 - 🎯 Slow learner, but a determined one! 😊  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumaima-fouzari/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=social&logo=kaggle&logoColor=white)](https://www.kaggle.com/oumaimafouzari)
+[LinkedIn](https://www.linkedin.com/in/oumaima-fouzari/) | [Kaggle](https://www.kaggle.com/oumaimafouzari/)
 
 <img title="a title" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB1bzBra292aHFnOTE3ajI3ZG8zYXNyZmZhbGszY3Z5MHk5YTVycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/udhngZK2IFTc4/giphy.gif">
