@@ -1,12 +1,14 @@
-# Hey there! I'm Oumaima Fouzari! 👩‍💻✨
 
-Welcome to my digital space! I'm a passionate **Data Scientist in the making** 🚀, currently pursuing my Master's at **Ibn Zohr University, Agadir**. 
+# Oumaima Fouzari
 
-## 🌟 About Me 
-- 🎓 **Master's in Data Science** | **Data Enthusiast**  
-- 🌍 Trilingual: **French, English, Arabic**  
-- 🔍 Exploring the intersection of **Big Data**, **Machine Learning**, and **Deep Learning**.  
-- 🎯 Slow learner, but a determined one! 😊  
+**Data Scientist**  
+Master's in Data Science graduate from Ibn Zohr University.
+
+**Focus:**  
+Natural Language Processing • Deep Learning • MLOps • Big Data
+
+**Languages:**  
+French • English • Arabic • Tamazight
 
 [LinkedIn](https://www.linkedin.com/in/oumaima-fouzari/) | [Kaggle](https://www.kaggle.com/oumaimafouzari/)
 
